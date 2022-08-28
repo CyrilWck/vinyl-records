@@ -27,7 +27,7 @@
     "artist": "Daft Punk",
     "album": "Discovery",
     "cover": "https://upload.wikimedia.org/wikipedia/en/2/27/Daft_Punk_-_Discovery.png",
-    "owned": false
+    "owned": true
   },
   {
     "artist": "Pink Floyd",
@@ -51,7 +51,7 @@
     "artist": "Justice",
     "album": "Cross",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Justice_-_Cross_%282007%29.jpg/220px-Justice_-_Cross_%282007%29.jpg",
-    "owned": false
+    "owned": true
   },
   {
     "artist": "Justice",
@@ -69,7 +69,7 @@
     "artist": "Simon & Garfunkel",
     "album": "Sounds of Silence",
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/SoundsSilence.jpg/220px-SoundsSilence.jpg",
-    "owned": false
+    "owned": true
   },
   {
     "artist": "Michael Jackson",
